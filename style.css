@@ -1,7 +1,7 @@
 body {
     text-align: center;
    
-    background-image:url(./pngtree-art-music-background-image_2928765.jpg) ;
+    background-image:url(./image/pngtree-art-music-background-image_2928765.jpg) ;
   }
   
   h1 {
@@ -17,15 +17,15 @@ body {
     font-family: sans-serif;
   }
   
-  .K{background-image:url(./happy-world-music-day-musical-600w-2165603207\ \(1\).webp) ;
+  .K{background-image:url(./image/happy-world-music-day-musical-600w-2165603207\ \(1\).webp) ;
    background-size: cover;
   }
   
-  .T{background-image: url(./happy-world-music-day-musical-600w-2165603207\ \(1\).webp);
+  .T{background-image: url(./image/happy-world-music-day-musical-600w-2165603207\ \(1\).webp);
    background-size: cover;
   }
   
-  .H {background-image: url(./happy-world-music-day-musical-600w-2165603207\ \(1\).webp);
+  .H {background-image: url(./image/happy-world-music-day-musical-600w-2165603207\ \(1\).webp);
     background-size: cover;
   }
   

@@ -12,7 +12,7 @@ for(var a=0; a<noOfButtons; a++){
       function makeSound (key){
         switch(key){
             case "K":
-                var song1=new Audio("/home/uki/Documents/modules/javascript_module/music app/song-english-edm-296526.mp3")
+                var song1=new Audio("/home/uki/Documents/modules/javascript_module/music app/song/song-english-edm-296526.mp3")
                 song1.play();
                  break;
             case "T":
