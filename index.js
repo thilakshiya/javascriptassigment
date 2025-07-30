@@ -12,15 +12,15 @@ for(var a=0; a<noOfButtons; a++){
       function makeSound (key){
         switch(key){
             case "K":
-                var song1=new Audio("/home/uki/Documents/modules/javascript_module/music app/song/song-english-edm-296526.mp3")
+                var song1=new Audio("./song/song-1.mp3")
                 song1.play();
                  break;
             case "T":
-                    var song2=new Audio("/home/uki/Documents/modules/javascript_module/music app/keen-fire-jean-drop-235365.mp3")
+                    var song2=new Audio("./song/song-2.mp3")
                     song2.play();
                      break;
             case "H":
-                var song3=new Audio("/home/uki/Documents/modules/javascript_module/music app/naitira-te-reo-maori-catch-phrase-english-307231.mp3")
+                var song3=new Audio("./song/song-3.mp3")
                 song3.play();
                  break;
            
